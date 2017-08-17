@@ -24,7 +24,7 @@
 <strong>Срок выполнения:</strong> 2 дня.<br>
 <strong>Дополнительные материалы:</strong> </strong> <a href="https://www.dropbox.com/s/yaqlnt5mqsvc6vy/anketa.psd?dl=0" target="_blank" rel="noopener noreferrer">Макет(psd)</a><br>
 <strong>Ссылка:</strong> <a href="http://test-4.ifrontender.ru/" target="_blank" rel="noopener noreferrer">test-4.ru</a><br><br>
-<img src="http://ifrontender.ru/wp-content/uploads/2017/08/test-4_pic.jpg" alt="Тестовая работа" width="996" height="1469 /><strong>Используемые технологии и библиотеки:
+<img src="http://ifrontender.ru/wp-content/uploads/2017/08/test-4_pic.jpg" alt="Тестовая работа" width="996" height="/><strong>Используемые технологии и библиотеки:
 </strong>
 - <a href="https://github.com/CSSSR/csssr-project-template" target="_blank" rel="noopener noreferrer">Стартовый шаблон</a>
 - Pug
